@@ -2,29 +2,24 @@
 layout: default
 ---
 
-```
-I'm an Vietnamese architecture designer with over 6 years of work experience and freelancing.
+## About me
 
-My main expertise is interior and exterior architecture design and rendering using **AutoDesk AutoCAD, AutoDesk 3D Studio Max, Sketchup, D5 Render**, and several other software.
-```
+> I'm an Vietnamese architecture designer with over 6 years of work experience and freelancing.
+
+> My main expertise is interior and exterior architecture design and rendering using **AutoDesk AutoCAD, AutoDesk 3D Studio Max, Sketchup, D5 Render**, and other rendering software.
 
 ## My Contacts
 
-
 | Contacts        | Info          | 
 |:-------------|:------------------|
-| Email           | fabionguyen991@gmail.com |
-| Fiverr | [fabionguyen91](https://www.fiverr.com/fabionguyen91)   |
-
-
+| Email | fabionguyen991@gmail.com |
+| Fiverr | [fabionguyen91](https://www.fiverr.com/fabionguyen91) |
 
 # Exterior Design
 
 ## Resort Hotel
 
 ![](./static/img/ext2/1.jpg)
-
-![](./static/img/ext2/2.jpg)
 
 ## Residential Houses
 
@@ -43,6 +38,11 @@ My main expertise is interior and exterior architecture design and rendering usi
 ![](./static/img/res3/VFN2.jpg)
 
 ![](./static/img/res4/VF1.jpg)
+
+![](./static/img/res5/VF1.jpg)
+
+![](./static/img/res6/1.jpg)
+
 
 ```
 Hope we can work together, let's get in touch!
